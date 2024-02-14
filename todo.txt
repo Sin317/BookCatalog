@@ -1,0 +1,6 @@
+IDEAS:
+
+1. Integrate with AI chatbot that can chat with user about their books and recommendations
+
+2. Add login with DB connection
+So everyuser gets to see their books
